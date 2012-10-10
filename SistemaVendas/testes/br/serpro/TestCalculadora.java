@@ -90,5 +90,13 @@ public class TestCalculadora {
 		Assert.assertEquals(esperado, retornado, 0.0001);
 
 	}
+	
+
+	@Test
+	public void testA() {
+
+		Assert.assertTrue(false);
+
+	}
 
 }
