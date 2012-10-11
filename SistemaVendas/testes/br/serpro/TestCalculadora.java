@@ -92,11 +92,5 @@ public class TestCalculadora {
 	}
 	
 
-	@Test
-	public void testA() {
-
-		Assert.assertTrue(false);
-
-	}
-
+	
 }
